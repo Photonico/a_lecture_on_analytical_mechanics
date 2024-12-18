@@ -1,2 +1,3 @@
-# a_lecture_on_analytical_mechanics
+# a lecture on analytical mechanics
+
 A Lecture on analytical mechanics
